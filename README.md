@@ -24,12 +24,15 @@ src="https://img.shields.io/github/followers/GolDDragon1702?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GolDDragon1702"><img src="https://github-readme-stats.vercel.app/api?username=GolDDragon1702&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GolDDragon1702's GitHub stats" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GolDDragon1702&theme=vue) </a>
 
-<a href="http://www.github.com/GolDDragon1702"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GolDDragon1702&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/GolDDragon1702"><img src="https://github-readme-stats.vercel.app/api?username=GolDDragon1702&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=41b883&icon_color=0891b2&bg_color=ffffff&hide_border=false&show_icons=true" alt="GolDDragon1702's GitHub stats" /></a>
 
-<a href="http://www.github.com/GolDDragon1702"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GolDDragon1702&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/GolDDragon1702"><img src="https://github-readme-streak-stats.herokuapp.com/?username=GolDDragon1702&stroke=41b883&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=41b883&currStreakLabel=0891b2&sideNums=41b883&sideLabels=41b883&dates=41b883&hide_border=false" /></a>
 
-<a href="http://www.github.com/GolDDragon1702"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={GolDDragon1702}&theme={nord_dark}&utcOffset={UTC +7.00}"></a>
+<a href="http://www.github.com/GolDDragon1702"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GolDDragon1702&bg_color=ffffff&color=41b883&line=0891b2&point=ffffff&area_color=a0dbc1&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/GolDDragon1702" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolDDragon1702&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/GolDDragon1702" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolDDragon1702&langs_count=10&title_color=0891b2&text_color=41b883&icon_color=0891b2&bg_color=ffffff&hide_border=false&locale=vi&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GolDDragon1702&theme=vue&utcOffset=7)
+
